@@ -3,7 +3,7 @@
 The import files for: Home were successfully downloaded!
 Initial max execution time = 60
 Files info:
-Site URL = https://arvconsultants.ca
+Site URL = https://arvconsultants.github.io
 Data file = /home2/arvconsu/public_html/wp-content/themes/medidove/sample-data/contents-demo.xml
 Widget file = /home2/arvconsu/public_html/wp-content/themes/medidove/sample-data/widget-settings.json
 Customizer file = /home2/arvconsu/public_html/wp-content/themes/medidove/sample-data/customizer-data.dat

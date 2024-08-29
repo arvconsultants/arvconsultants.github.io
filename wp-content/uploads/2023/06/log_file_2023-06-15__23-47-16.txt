@@ -6,7 +6,7 @@ Redux file was not uploaded. Error: No file provided.
 The import files were successfully uploaded!
 Initial max execution time = 60
 Files info:
-Site URL = https://arvconsultants.ca
+Site URL = https://arvconsultants.github.io
 Data file = /home2/arvconsu/public_html/wp-content/uploads/2023/06/contents-demo.xml
 Widget file = /home2/arvconsu/public_html/wp-content/uploads/2023/06/acf-meta.json
 Customizer file = /home2/arvconsu/public_html/wp-content/uploads/2023/06/customizer-data.dat
